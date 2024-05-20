@@ -5,6 +5,7 @@ export default function Home() {
     <>
       <h2>Welcome</h2>
       Hello, WEB!
+      <img src="/byeolgom_logo.gif" width={100}></img>
     </>
   );
 }
